@@ -4,13 +4,13 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 
 Technologies Used
 
-Java
-JavaScript
-HTML
-CSS
-Hibernate
-Mockito
-Features
+-Java
+-JavaScript
+-HTML
+-CSS
+-Hibernate
+-Mockito
+-Features
 
 Access levels including user and admin
 Able to post reimbursement tickets as Employee on employee landing page

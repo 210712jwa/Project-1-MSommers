@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  align-content: center;
+}
+
+#table {
+  text-align: center;
+  align-content: center;
+}
+
+#navbar {
+  margin: auto;
+  width: 30%;
+  border: 3px solid rgb(209, 12, 160);
+  padding: 10px;
+  background: rgb(241, 195, 11);
+  align-content: center;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding-top: 1px;
+  padding-right: 2px;
+  padding-bottom: 1px;
+  padding-left: 2px;
+  }
+
+  body {
+    background-image: url("https://blogwallet.com/wp-content/uploads/2014/09/o-BUSINESS-LUNCH-facebook1.jpg");
+    background-color: #cccccc;
+    background-attachment: fixed;
+    background-size: cover;
+   }
+
+  
